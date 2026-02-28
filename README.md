@@ -1,4 +1,4 @@
-# Formal-Grammar
+# Formal Grammar
 
 A clean and extensible Python implementation of **formal grammars**, supporting grammar definition, parsing, validation, and derivation operations.
 
