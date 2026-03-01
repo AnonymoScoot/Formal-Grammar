@@ -30,6 +30,11 @@ Create rules:
     - Product: `["a", "b", "c"]`
 Create a rule set:
 - Add Rule 1 and Rule 2 into the rule set.
+- Structure:
+    - `(Rule1, Rule2)`
+
+
+
 Create a grammar:
 - Give a name, add a starting symbol `A`, add the rule set.
 
